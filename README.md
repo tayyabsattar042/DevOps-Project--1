@@ -8,7 +8,7 @@ The objective was to automate the building and deployment of a Docker image to A
 ## Implementation Steps
 The process encompassed several critical stages:
 
-  ✅ **EC2 Configuration**: Provisioning and setting up an Amazon EC2 instance to serve as the build server.
+  ✅ **EC2 Configuration**: Provisioning and setting up an Amazon EC2 instance to serve as the build server.                                                         
   ✅ **Java Installation**: Ensuring the EC2 instance runs Ubuntu 22.04 LTS and installing the necessary Java Development Kit (JDK).
   ✅ **Jenkins Setup**: Installing and configuring Jenkins on the Ubuntu server to orchestrate the pipeline.
   ✅ **Docker Installation**: Adding Docker to the server, enabling containerization of the application.
